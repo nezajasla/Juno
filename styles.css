@@ -1,0 +1,238 @@
+body{
+    background-color: black;
+}
+.get{
+    display: flex;
+flex-direction:column;
+margin-top: 20px;
+align-items: center;
+
+}   
+.in{
+    background-color: rgb(34, 193, 214);
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    
+} 
+.touche{
+    background-image:url(./images/foot.jfif);
+    background-size: cover;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 50px;
+    font-size: xx-large;
+    color: rgb(147, 206, 11);
+}
+
+.touche span{
+    color:rgb(211, 12, 29);
+}
+
+.contacts{
+    padding:20px;
+    width:70%;
+    padding-bottom: 120px;
+}
+form{
+margin-top: 40px;
+
+}
+form input{
+background-color: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid rgb(235, 44, 187);
+padding: 10px 0px;
+
+}
+.yh{
+padding: 8px 16px;
+background-color: rgb(30, 133, 165);
+border-radius: 10px;
+margin-top: 70px;
+cursor: pointer;
+border: 0;
+width: 50%;
+}
+.got{
+    display: flex;
+flex-direction:column;
+margin-top: 20px;
+align-items: center;
+padding-left: 100px;
+padding-right:50px ;
+}   
+.inn{
+    background-color: rgb(34, 193, 214);
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    
+} 
+.touch{
+    background-image:url(./images/foot.jfif);
+
+    background-size: cover;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 50px;
+    font-size: xx-large;
+    color: rgb(147, 206, 11);
+}
+
+.touch span{
+    color:rgb(211, 12, 29);
+}
+
+.contact{
+    padding:20px;
+    width:70%;
+    padding-bottom: 120px;
+}
+form{
+    margin-top: 40px;
+    
+    }
+
+form input{
+background-color: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid rgb(235, 44, 187);
+padding: 10px 0px;
+
+}
+.yeah{
+padding: 8px 16px;
+background-color: rgb(30, 133, 165);
+border-radius: 10px;
+margin-top: 50px;
+cursor: pointer;
+border: 0;
+width: 50%;
+
+
+}
+.buy{
+    display: flex;
+flex-direction:column;
+margin-top: 20px;
+align-items: center;
+
+}   
+.hi{
+    background-color: rgb(34, 193, 214);
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    
+} 
+.ton{
+    background-image:url(./images/foot.jfif);
+    background-size: cover;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 50px;
+    font-size: xx-large;
+    color: rgb(147, 206, 11);
+}
+
+.ton span{
+    color:rgb(211, 12, 29);
+}
+
+.bought{
+    padding:20px;
+    width:70%;
+    padding-bottom: 120px;
+}
+form{
+margin-top: 40px;
+
+}
+form input{
+background-color: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid rgb(235, 44, 187);
+padding: 10px 0px;
+
+}
+.yn{
+padding: 8px 16px;
+background-color: rgb(30, 133, 165);
+border-radius: 10px;
+margin-top: 70px;
+cursor: pointer;
+border: 0;
+width: 50%;
+}
+.buy h1{
+    color: white;
+}
+.shopping{
+    display: flex;
+flex-direction:column;
+margin-top: 20px;
+align-items: center;
+
+}   
+.hy{
+    background-color: rgb(34, 193, 214);
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    
+} 
+.toc{
+    background-image:url(./images/foot.jfif);
+    background-size: cover;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 50px;
+    font-size: xx-large;
+    color: rgb(147, 206, 11);
+}
+
+.toc span{
+    color:rgb(211, 12, 29);
+}
+
+.bou{
+    padding:20px;
+    width:70%;
+    padding-bottom: 120px;
+}
+form{
+margin-top: 40px;
+
+}
+form input{
+background-color: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid rgb(235, 44, 187);
+padding: 10px 0px;
+
+}
+.yz{
+padding: 8px 16px;
+background-color: rgb(30, 133, 165);
+border-radius: 10px;
+margin-top: 70px;
+cursor: pointer;
+border: 0;
+width: 50%;
+}
+.shopping h1{
+    color: white;
+}
